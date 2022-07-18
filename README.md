@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @otaviorabelo0408
-- 👀 I’m interested in  desenvolvimento de softwares nas áres empresarial e científica.
-- 🌱 I’m currently learning Python, C, C++, Java, JavaScript e Banco de Dados.
-- 💞️ I’m looking to collaborate on desenvolvimento de aplicações Python, principalmente.
+- 👀 I’m interested in  desenvolvimento de programas e análise de dados.
+- 🌱 I’m currently learning Python, C, C++ e Java.
+- 💞️ I’m looking to collaborate on desenvolvimento de algoritmos em limguagem Python, principalmente.
 - 📫 Para entrar em contato, utilize o email: otaviorabelounb@gmail.com
 
 <!---
